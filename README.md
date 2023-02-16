@@ -32,13 +32,9 @@ b) Para la figura 15-74, determine los voltajes instantáneos en t = 0, 1, 2, 3,
 
 ![image](https://user-images.githubusercontent.com/116811856/219229357-3a3767d2-b3a3-43ec-9e1d-293463322c03.png)
 
-15-3 Convenciones de voltaje y corriente para ca
-
 5. La fuente de la figura 15-76 tiene la forma de onda de la figura 15-74. Determine la corriente en t = 0, 1, 2, 3, 4, 5, 6, 7, y 8 ms. Incluya el signo.
 
 ![image](https://user-images.githubusercontent.com/116811856/219229435-a4cc57b4-3889-47df-9fed-5f6fb8028c35.png)
-
-15-4 Frecuencia, periodo, amplitud y valor pico
 
 7. Para cada uno de los siguientes, determine la frecuencia:
 
